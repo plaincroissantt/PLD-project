@@ -1,0 +1,13 @@
+C:\Users\salma\source\repos\JSparserFinal\JSparserFinal\bin\Debug\JSparserFinal.exe.config
+C:\Users\salma\source\repos\JSparserFinal\JSparserFinal\bin\Debug\JSparserFinal.exe
+C:\Users\salma\source\repos\JSparserFinal\JSparserFinal\bin\Debug\JSparserFinal.pdb
+C:\Users\salma\source\repos\JSparserFinal\JSparserFinal\bin\Debug\CalithaLib.dll
+C:\Users\salma\source\repos\JSparserFinal\JSparserFinal\bin\Debug\GoldParserEngine.dll
+C:\Users\salma\source\repos\JSparserFinal\JSparserFinal\obj\Debug\JSparserFinal.csproj.AssemblyReference.cache
+C:\Users\salma\source\repos\JSparserFinal\JSparserFinal\obj\Debug\JSparserFinal.Form1.resources
+C:\Users\salma\source\repos\JSparserFinal\JSparserFinal\obj\Debug\JSparserFinal.Properties.Resources.resources
+C:\Users\salma\source\repos\JSparserFinal\JSparserFinal\obj\Debug\JSparserFinal.csproj.GenerateResource.cache
+C:\Users\salma\source\repos\JSparserFinal\JSparserFinal\obj\Debug\JSparserFinal.csproj.CoreCompileInputs.cache
+C:\Users\salma\source\repos\JSparserFinal\JSparserFinal\obj\Debug\JSparser.B0D59397.Up2Date
+C:\Users\salma\source\repos\JSparserFinal\JSparserFinal\obj\Debug\JSparserFinal.exe
+C:\Users\salma\source\repos\JSparserFinal\JSparserFinal\obj\Debug\JSparserFinal.pdb
